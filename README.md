@@ -1,6 +1,6 @@
 #  Pune Property Price Prediction & Recommendation System
 
-## 📋 Project Overview
+##  Project Overview
 This project uses **Machine Learning (Random Forest Regression)** to predict **property prices and rent** in Pune based on various features like number of bedrooms, area, facing, and locality. 
 It also includes a **recommendation system** that suggests the best areas to buy or rent based on a user’s preferences such as budget, BHK, and carpet area.
 
@@ -110,7 +110,7 @@ This will generate a new model file (`property_price_model.pkl`) which the GUI a
 
 ---
 
-## 🏁 Future Improvements
+##  Future Improvements
 - Integration with **Google Maps API** to calculate real-time distance to workplace.
 - Addition of **rent prediction** as a separate model.
 - Deployment as a **Streamlit web app**.
